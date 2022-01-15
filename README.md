@@ -10,6 +10,8 @@ Technické parametry IntelliJ IDEA Community Edition 2021.3.1 // 11 Oracle OpenJ
 
 Autor: Klus Jan (KLU0116) 
 
+Použité knihovny: java(java.util.ArrayList,java.util.Scanner)
+
 Popis aplikace: Aplikace funguje na způsob běžného nákupu v automatu. Uživatel v automatu vidí produkty, které si může koupit.
 		Následně vhodí peníze a vybere si produkt, který si chce koupit.
 		Automat uživateli vydá zboží a vypíše nutriční hodnoty produktu, poté vrátí uživateli zbytek peněz.
